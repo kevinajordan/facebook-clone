@@ -1,2 +1,2 @@
 # facebook-clone
-Clone of Facebook using React, GraphQL, and TailwindCSS
+Clone of Facebook using ReactJS, NodeJS, GraphQL, TypeScript, and TailwindCSS
